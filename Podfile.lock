@@ -1,0 +1,22 @@
+PODS:
+  - LibraryName (1.0)
+
+DEPENDENCIES:
+  - "LibraryName (from `git@github.com:prof18/fat-framework-cocoa-repo-test.git`, tag `1.0`)"
+
+EXTERNAL SOURCES:
+  LibraryName:
+    :git: "git@github.com:prof18/fat-framework-cocoa-repo-test.git"
+    :tag: '1.0'
+
+CHECKOUT OPTIONS:
+  LibraryName:
+    :git: "git@github.com:prof18/fat-framework-cocoa-repo-test.git"
+    :tag: '1.0'
+
+SPEC CHECKSUMS:
+  LibraryName: 69c231961ee755e6dd965661e4dd52cf960fb84d
+
+PODFILE CHECKSUM: 5f03764b632c06a1f1c0678c66d650f4285c34cb
+
+COCOAPODS: 1.10.2
